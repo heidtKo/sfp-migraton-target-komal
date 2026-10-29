@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>newObject1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>new objects</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- myFieldSet --></label>
+        <name>myFieldSet</name>
+    </fieldSets>
+    <recordTypes>
+        <label><!-- newObjectRT --></label>
+        <name>newObjectRT</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- should have a name --></errorMessage>
+        <name>name_has_value</name>
+    </validationRules>
+</CustomObjectTranslation>

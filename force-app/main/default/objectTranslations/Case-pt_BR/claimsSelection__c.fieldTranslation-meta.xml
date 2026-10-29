@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>PT BR claims selecau</label>
+    <name>claimsSelection__c</name>
+    <picklistValues>
+        <masterLabel>Esta</masterLabel>
+        <translation>PT BR Estau</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Este</masterLabel>
+        <translation>PT BR Estee</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Esto</masterLabel>
+        <translation>PT BR Estou</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hablá</masterLabel>
+        <translation>PT BR hablauu</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Habló</masterLabel>
+        <translation>PT BR hablooo</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hije</masterLabel>
+        <translation>PT BR hijei</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hijo</masterLabel>
+        <translation>PT BR Hijou</translation>
+    </picklistValues>
+</CustomFieldTranslation>

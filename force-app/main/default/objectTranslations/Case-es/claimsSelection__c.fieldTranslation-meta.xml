@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>ES-claims seleción</label>
+    <name>claimsSelection__c</name>
+    <picklistValues>
+        <masterLabel>Esta</masterLabel>
+        <translation>ES esta</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Este</masterLabel>
+        <translation>ES este</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Esto</masterLabel>
+        <translation>ES esto</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hablá</masterLabel>
+        <translation>ES hablaa</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Habló</masterLabel>
+        <translation>ES habloó</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hije</masterLabel>
+        <translation>ES HJije</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hijo</masterLabel>
+        <translation>ES Hijo</translation>
+    </picklistValues>
+</CustomFieldTranslation>

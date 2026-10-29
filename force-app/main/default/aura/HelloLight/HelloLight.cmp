@@ -1,0 +1,7 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    <lightning:card title="Hello World">
+        <div class="slds-p-around_medium">
+            <p>Welcome to Salesforce Aura Components!</p>
+        </div>
+    </lightning:card>
+</aura:component>

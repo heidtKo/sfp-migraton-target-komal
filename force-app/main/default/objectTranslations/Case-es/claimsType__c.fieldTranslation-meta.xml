@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>ES-claims tipo</label>
+    <name>claimsType__c</name>
+    <picklistValues>
+        <masterLabel>Clia</masterLabel>
+        <translation>ES CLIA</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Clio</masterLabel>
+        <translation>ES CLIO</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mia</masterLabel>
+        <translation>ES MIA</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mio</masterLabel>
+        <translation>ES MIO</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rena</masterLabel>
+        <translation>ES RENA</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reno</masterLabel>
+        <translation>ES RENO</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Tipa</masterLabel>
+        <translation>ES TIPA</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Tipo</masterLabel>
+        <translation>ES TIPO</translation>
+    </picklistValues>
+</CustomFieldTranslation>
